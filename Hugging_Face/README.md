@@ -11,4 +11,4 @@ license: apache-2.0
 short_description: FacialFaceRecognition
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+Check out the configuration reference at https://huggingface.co/spaces/cyberkee789/HumanFaceRecognition
